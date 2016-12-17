@@ -1,0 +1,3 @@
+Este archivo se ha generado ya que es el primer master branch
+donde probaremos las caracteristicas de Git Desktop. Espero que
+sea interesante para ti. Saludos atentamente Ing. Omar Cerecedo.
