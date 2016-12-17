@@ -1,0 +1,3 @@
+Git es un sistema de repositorios que nos permite tener controlado las distintas versiones
+de un proyecto, permitiendonos crear branchs (ramas) y bifurcations (bifurcaciones) para una 
+mejor organización de un proyecto.
